@@ -20,4 +20,16 @@ Muestra todas las variables cargadas en la memoria
 
 Multiplica dos variables de tipo Integer
 
+![Ejercicio3](https://github.com/cosmetorandellborras/Ejercicio-4---Powershell-2/blob/main/Ex3.png)
 
+## Ejercicio 4
+
+Declara dos variables de tipo Integer, dividelas y guarda el resultado en una nueva variable
+
+![Ejercicio4](https://github.com/cosmetorandellborras/Ejercicio-4---Powershell-2/blob/main/Ex4.png)
+
+## Ejercicio 5
+
+Asigna una nueva variable, asignale un valor numerico y haz un cast para que sea una variable de tipo String
+
+![Ejercicio5](https://github.com/cosmetorandellborras/Ejercicio-4---Powershell-2/blob/main/Ex5.png)
